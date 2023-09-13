@@ -1,5 +1,5 @@
 # Quick Intel
-<img src="quickintel.png" alt="quickintel">
+<img src="profile/quickintel.png" alt="quickintel">
 
 [![](https://shields.io/github/stars/Quick-Intel?style=social)](https://github.com/Quick-Intel/)
 <a href="https://discord.gg/quicki"><img alt="discord invitation link" src="https://dcbadge.vercel.app/api/server/quicki?style=flat"></a>
