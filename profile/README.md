@@ -35,6 +35,7 @@ DexTools · DexScreener · GeckoTerminal · Gate.io — plus a long list of bots
 Quick Intel is participating in the **Ethereum Security QF Round** on Giveth, a quadratic funding round supporting projects securing Ethereum and its L2 ecosystem.
 
 👉 **Donate & boost our project (counts for matching):** https://qf.giveth.io/project/quick-intel
+
 👉 **Project page:** https://giveth.io/project/quick-intel
 
 Every donation directly funds free scans for end users, expanded chain coverage, new scam detection research, and free security education for the Web3 community.
